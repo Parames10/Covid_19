@@ -1,2 +1,2 @@
 # Covid_19
-A collection of covid 19 suspected and confirmed cases
+A collection of tables with all the facility information of covid19
